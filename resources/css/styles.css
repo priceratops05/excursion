@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 html {
   font-size: 16px;
 }
@@ -5,10 +7,14 @@ body {
   background-color: black;
   color: white;
   text-align: center;
+  font-family: Roboto;
 }
 
 a {
   color: aquamarine;
   font-size: 1rem;
   text-decoration: underline;
+}
+h1 {
+  font-size: 3.125rem;
 }
