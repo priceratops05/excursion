@@ -11,10 +11,17 @@ body {
 }
 
 a {
-  color: aquamarine;
+  color: rgb(127, 255, 212);
   font-size: 1rem;
+  display: inline-block;
   text-decoration: underline;
+  transition: color 400ms;
+} 
+
+a:hover {
+  color: rgb(29, 129, 96);
 }
+
 h1 {
   font-size: 3.125rem;
 }
