@@ -1,4 +1,14 @@
+html {
+  font-size: 16px;
+}
 body {
   background-color: black;
   color: white;
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 1rem;
+  text-decoration: underline;
 }
