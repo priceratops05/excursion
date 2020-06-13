@@ -30,3 +30,11 @@ p {
   margin-bottom: 1.3125rem;
 }
 
+img {
+  margin-bottom: 1.3125rem;
+}
+
+.copyright {
+  text-align: right;
+  margin-right: 1rem;
+}
